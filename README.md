@@ -14,7 +14,7 @@ This way, Hierarchical transformers improve upon theTransformer baseline given t
 
 &nbsp;
 
-In this research, we propose a model that combines the BYOL's low level features extraction with Hierarchical transformers. We then show that this resulting model achieves competitive results on benchmarks across image classification tasks using well established datasets like STL-10.
+In this research, we propose a model that combines the BYOL's low level features extraction with Hierarchical Transformers. We show that this resulting model achieves competitive results on benchmarks across image classification tasks using well established datasets like STL-10.
 
 &nbsp;
 
