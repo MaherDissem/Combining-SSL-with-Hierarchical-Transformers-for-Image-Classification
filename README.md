@@ -1,4 +1,4 @@
-# Combining-SSL-with-Hierarchical-Transformers-for-Image-Classification
+# Combining SSL with Hierarchical Transformers for Image Classification
 
 Supervised learning can learn large representational spaces, which are crucial for handling difficult learning tasks. However, due to the design of the model, classical image classification approaches struggle to generalize to new problems and new situations when dealing with small datasets.
 In fact, supervised learning can lose the location of image features which leads to supervision collapse in very deep architectures.
